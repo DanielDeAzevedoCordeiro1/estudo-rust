@@ -20,6 +20,7 @@ fn main() {
         },
         Mensagem::Sair => {
             println!("Saindo...");
+            
         }
     }
 }
